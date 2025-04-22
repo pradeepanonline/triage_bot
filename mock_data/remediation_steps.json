@@ -1,0 +1,8 @@
+{
+    "KYC_MISSING": "Request customer to upload valid government ID and proof of address to complete KYC.",
+    "RISK_HOLD": "Review account's transaction patterns. Escalate to Risk team if necessary to whitelist safe transactions.",
+    "BANK_ERROR": "Advise customer to verify their linked bank account details and resolve any bank-side issues.",
+    "INSUFFICIENT_FUNDS": "Notify customer about insufficient balance and recommend retrying after adding funds.",
+    "APPROVED": "No action needed. Transaction was successful."
+  }
+  

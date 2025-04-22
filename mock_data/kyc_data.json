@@ -1,0 +1,4 @@
+{
+  "ACC001": {"kyc_status": "missing_address_proof", "last_updated": "2025-04-10"},
+  "ACC002": {"kyc_status": "verified", "last_updated": "2025-04-15"}
+}
